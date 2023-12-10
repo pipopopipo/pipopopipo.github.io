@@ -3,10 +3,8 @@
     font-size: 16px;
     line-height: 24px;
     font-weight: 400;
-
     color: #0f0f0f;
     background-color: #613583;
-
     font-synthesis: none;
     text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
@@ -110,6 +108,7 @@ input[type="checkbox"]:checked ~ .check::after {
     font-weight: bold;
 }
 
+
 .box .close {
     position: absolute;
     width: 18px;
@@ -211,6 +210,7 @@ input[type="checkbox"]:checked ~ .check::after {
     white-space: nowrap;
 }
 
+
 .googleplay {
     position: relative;
     width: 320px;
@@ -220,6 +220,4 @@ input[type="checkbox"]:checked ~ .check::after {
     background-size: cover;
     background-position: 50% 50%;
 }
-
-
 
